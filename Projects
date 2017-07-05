@@ -5,5 +5,18 @@
 
 <body>
   <div id = "page">
+  <div id = "header">
+  <div id = "headerTitle">
+  <div id = "headerSubText">
+  <div id = "bar">
+  <div id = "bar a">
+  <div id = "bar a:hover">
+  <div id = ".contentTitle">
+  <div id = ".contentTitle h1">
+  <div id = ".comments">
+  <div id = ".contentText">
+  <div id = "a">
+  <div id = "a:hover">
+  <div id = "footer">
 </body>
 </html>
